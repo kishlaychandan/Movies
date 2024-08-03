@@ -5,7 +5,7 @@ const shows = [
     releaseDate: "20-1-2008",
     rating: 9.5,
     genre: ["Crime", "Drama", "Thriller"],
-    image: "https://images.unsplash.com/photo-1511765224389-37f0e77cf0eb",
+    image: "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const shows = [
     releaseDate: "17-4-2011",
     rating: 9.3,
     genre: ["Action", "Adventure", "Drama"],
-    image: "https://images.unsplash.com/photo-1508672019048-805c876b67e2",
+    image: "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const shows = [
     releaseDate: "15-7-2016",
     rating: 8.7,
     genre: ["Drama", "Fantasy", "Horror"],
-    image: "https://images.unsplash.com/photo-1541844053589-346841f2e90a",
+    image: "https://i.scdn.co/image/ab67616d0000b273bd0db295c0164ddbc0584ebb",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const shows = [
     releaseDate: "12-11-2019",
     rating: 8.8,
     genre: ["Action", "Adventure", "Fantasy"],
-    image: "https://images.unsplash.com/photo-1605252498590-d0274fbf4b82",
+    image: "https://m.media-amazon.com/images/I/81oP0pVLi5L._AC_UF1000,1000_QL80_.jpg",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const shows = [
     releaseDate: "24-3-2005",
     rating: 8.9,
     genre: ["Comedy"],
-    image: "https://images.unsplash.com/photo-1523381213950-3f007c1a1a99",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg1M-IXxVnGM4EwNBhtTR8Z8DrOA_uqWPmew&s",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const shows = [
     releaseDate: "22-9-1994",
     rating: 8.9,
     genre: ["Comedy", "Romance"],
-    image: "https://images.unsplash.com/photo-1598133894000-e6c69b9d94a8",
+    image: "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const shows = [
     releaseDate: "20-12-2019",
     rating: 8.2,
     genre: ["Action", "Adventure", "Drama"],
-    image: "https://images.unsplash.com/photo-1604014237848-77d9ecadf9ac",
+    image: "https://m.media-amazon.com/images/M/MV5BMDEwOWVlY2EtMWI0ZC00OWVmLWJmZGItYTk3YjYzN2Y0YmFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const shows = [
     releaseDate: "25-7-2010",
     rating: 9.1,
     genre: ["Crime", "Drama", "Mystery"],
-    image: "https://images.unsplash.com/photo-1579547621706-1a9c79d5d0f8",
+    image: "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10406404_b_v13_ab.jpg",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const shows = [
     releaseDate: "4-11-2016",
     rating: 8.6,
     genre: ["Biography", "Drama", "History"],
-    image: "https://images.unsplash.com/photo-1605252498285-0b0bb2a72823",
+    image: "https://resizing.flixster.com/MbINOD-XxE4ZFDNDdzkLoKNsslc=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14453812_b_v8_aa.jpg",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const shows = [
     releaseDate: "2-10-2016",
     rating: 8.6,
     genre: ["Drama", "Mystery", "Sci-Fi"],
-    image: "https://images.unsplash.com/photo-1599909734907-e57016f3c291",
+    image: "https://upload.wikimedia.org/wikipedia/en/2/28/Westworld_season_1.png",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ const shows = [
     releaseDate: "1-2-2013",
     rating: 8.7,
     genre: ["Drama"],
-    image: "https://images.unsplash.com/photo-1611908534093-7472a08d0d0a",
+    image: "https://m.media-amazon.com/images/M/MV5BNmM4ODU1MzItODYyYi00Y2U0LWFjZjItYTRhZWIwOGMyZTRhXkEyXkFqcGdeQXVyNjc2NTQ4Nzk@._V1_.jpg",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ const shows = [
     releaseDate: "26-7-2019",
     rating: 8.7,
     genre: ["Action", "Comedy", "Crime"],
-    image: "https://images.unsplash.com/photo-1529012416611-4cb3455e7605",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/The_Boys_Season_2.jpg/220px-The_Boys_Season_2.jpg",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ const shows = [
     releaseDate: "26-4-2017",
     rating: 8.4,
     genre: ["Drama", "Sci-Fi", "Thriller"],
-    image: "https://images.unsplash.com/photo-1508520360429-6e7c0e1a720f",
+    image: "https://m.media-amazon.com/images/M/MV5BN2M0NTdiMGYtNmFjZi00MjIxLWI3OTUtNTdmZDRlOTNiYWU0XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ const shows = [
     releaseDate: "15-2-2019",
     rating: 8.0,
     genre: ["Action", "Adventure", "Comedy"],
-    image: "https://images.unsplash.com/photo-1550332781-4190fd1f4b3d",
+    image: "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/02/the-umbrella-academy-season-4-poster-showing-five-walking.jpg",
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ const shows = [
     releaseDate: "4-12-2011",
     rating: 8.8,
     genre: ["Drama", "Sci-Fi", "Thriller"],
-    image: "https://images.unsplash.com/photo-1512594150212-99609cce914f",
+    image: "https://m.media-amazon.com/images/M/MV5BZTgyNTBkNzctN2I3NC00NTA1LWJiMDMtYzA2MmYyZjc1NWQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ const shows = [
     releaseDate: "31-10-2010",
     rating: 8.2,
     genre: ["Drama", "Horror", "Thriller"],
-    image: "https://images.unsplash.com/photo-1513521773889-20343b11b64f",
+    image: "https://m.media-amazon.com/images/M/MV5BNzI5MjUyYTEtMTljZC00NGI5LWFhNWYtYjY0ZTQ5YmEzMWRjXkEyXkFqcGdeQXVyMTY3MDE5MDY1._V1_.jpg",
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ const shows = [
     releaseDate: "28-8-2015",
     rating: 8.8,
     genre: ["Biography", "Crime", "Drama"],
-    image: "https://images.unsplash.com/photo-1514760264151-fde55c25dd54",
+    image: "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ const shows = [
     releaseDate: "8-2-2015",
     rating: 8.7,
     genre: ["Crime", "Drama"],
-    image: "https://images.unsplash.com/photo-1589138369526-9d4c6e7c0be7",
+    image: "https://upload.wikimedia.org/wikipedia/en/c/c0/Better_Call_Saul_season_4.jpg",
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ const shows = [
     releaseDate: "12-9-2013",
     rating: 8.8,
     genre: ["Crime", "Drama"],
-    image: "https://images.unsplash.com/photo-1529781918513-f0e6fbd3d5c4",
+    image: "https://rukminim2.flixcart.com/image/850/1000/k0y6cnk0/poster/9/f/6/medium-peaky-blinders-tv-series-poster-for-room-office-13-inch-x-original-imafkm3uhgwyy3gn.jpeg?q=20&crop=false",
   },
   {
     id: 20,
@@ -157,7 +157,7 @@ const shows = [
     releaseDate: "21-7-2017",
     rating: 8.4,
     genre: ["Crime", "Drama", "Thriller"],
-    image: "https://images.unsplash.com/photo-1579256945821-06de9c1810a2",
+    image: "https://resizing.flixster.com/3ko6zO6791p1QPOXHUI2eCwmHXQ=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvMDIyOTBmN2QtMzM0Yi00ODUxLWE0MWYtMmViYWJiOGViZjRkLmpwZw==",
   },
   {
     id: 21,
@@ -165,7 +165,7 @@ const shows = [
     releaseDate: "3-3-2013",
     rating: 8.5,
     genre: ["Action", "Adventure", "Drama"],
-    image: "https://images.unsplash.com/photo-1585325702342-744b247ddff2",
+    image: "https://m.media-amazon.com/images/I/51ycz9p-jgL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     id: 22,
@@ -173,7 +173,7 @@ const shows = [
     releaseDate: "13-10-2017",
     rating: 8.6,
     genre: ["Crime", "Drama", "Thriller"],
-    image: "https://images.unsplash.com/photo-1563223832-3e88c7f1d3c6",
+    image: "https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_.jpg",
   },
   {
     id: 23,
@@ -181,7 +181,7 @@ const shows = [
     releaseDate: "6-5-2019",
     rating: 9.4,
     genre: ["Drama", "History", "Thriller"],
-    image: "https://images.unsplash.com/photo-1580910653490-1bbf41f11565",
+    image: "https://m.media-amazon.com/images/M/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 24,
@@ -189,7 +189,7 @@ const shows = [
     releaseDate: "2-5-2017",
     rating: 8.3,
     genre: ["Action", "Crime", "Drama"],
-    image: "https://images.unsplash.com/photo-1577641788412-e8c8b74e413e",
+    image: "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 25,
@@ -197,7 +197,7 @@ const shows = [
     releaseDate: "1-12-2017",
     rating: 8.8,
     genre: ["Crime", "Drama", "Mystery"],
-    image: "https://images.unsplash.com/photo-1542042160620-1ac60d1d2c2d",
+    image: "https://resizing.flixster.com/lpJkDxnEFNQT1OWJjnmYfvpAHJ0=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjI2NjgyOS53ZWJw",
   },
   {
     id: 26,
@@ -205,7 +205,7 @@ const shows = [
     releaseDate: "17-3-2017",
     rating: 8.7,
     genre: ["Comedy", "Drama"],
-    image: "https://images.unsplash.com/photo-1555435028-5b6c37498cfe",
+    image: "https://m.media-amazon.com/images/M/MV5BOWFjODRhMDktMTE3My00ODQzLThmODctYmM2ZmU5YmY0ZGVkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
   },
   {
     id: 27,
@@ -213,7 +213,7 @@ const shows = [
     releaseDate: "15-4-2014",
     rating: 8.9,
     genre: ["Crime", "Drama", "Thriller"],
-    image: "https://images.unsplash.com/photo-1531180531507-4cba21a12c20",
+    image: "https://play-lh.googleusercontent.com/Qp_I7qT-23wjWzx5pML1RSA9gBQQIRU0iztrCi0DXdZRJEZupGoB_ur4TDDwgPa-pZ1c=w240-h480-rw",
   },
   {
     id: 28,
@@ -221,7 +221,7 @@ const shows = [
     releaseDate: "12-1-2014",
     rating: 8.9,
     genre: ["Crime", "Drama", "Mystery"],
-    image: "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+    image: "https://m.media-amazon.com/images/M/MV5BNTEzMzBiNGYtYThiZS00MzBjLTk5ZWItM2FmMzU3Y2RjYTVlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg",
   },
   {
     id: 29,
@@ -229,7 +229,7 @@ const shows = [
     releaseDate: "23-10-2020",
     rating: 8.6,
     genre: ["Drama"],
-    image: "https://images.unsplash.com/photo-1534119139489-5498e8f3b9a2",
+    image: "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_FMjpg_UX1000_.jpg",
   }
 ];
 
